@@ -1,0 +1,8 @@
+[package]
+name = "bin3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crate1 = { path = "../crates/crate1" }
+crate2 = { path = "../crates/crate2" }
